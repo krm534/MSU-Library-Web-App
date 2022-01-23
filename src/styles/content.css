@@ -1,0 +1,44 @@
+.content-container {
+  width: 100%;
+}
+
+.heading {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: auto;
+  background-color: #182c3a;
+  margin-bottom: 15px;
+}
+
+.heading > h1 {
+  color: #fff;
+}
+
+.box {
+  height: auto;
+  width: 500px;
+  border: 2px solid #000;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.box > div {
+  margin-bottom: 15px;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.label {
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.title {
+  font-size: 20px;
+}
