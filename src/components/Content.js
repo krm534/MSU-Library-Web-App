@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Guides from "./Guides";
 import Pagination from "./Pagination";
 import "../styles/content.css";
-import { API_ENDPOINT } from "../utils/constants";
+import { API_ENDPOINT } from "../utils/Constants";
 
 function Content() {
   const [currentPage, setCurrentPage] = useState(1);
