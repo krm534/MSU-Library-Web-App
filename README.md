@@ -1,2 +1,4 @@
-# MSU-Library-Web-App
-Lists guides which were published by Mississippi State University.
+# MSU Research Guides App
+
+- Lists research guides published by Mississippi State University.
+- App is intended to display MSU research guides effectively to the user.
